@@ -17,6 +17,10 @@ If the record exitsts - Your host is blacklisted.
 Requirements
 ============
 zabbix_sender
+host
+
+For Centos 6/7 you need host to be installed : 
+yum install bind-utils
 
 How to install
 ==============
