@@ -19,7 +19,9 @@ Requirements
 zabbix_sender
 host
 
-For Centos 6/7 you need host to be installed : 
+Centos Requirements
+============
+For Centos 6/7 you need to install the package : host 
 yum install bind-utils
 
 How to install
